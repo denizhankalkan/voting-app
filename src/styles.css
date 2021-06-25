@@ -1,0 +1,38 @@
+body {
+    color: #000;
+    background: #ef32d9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+      to right,
+      #89fffd,
+      #ef32d9
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89fffd, #ef32d9);
+  }
+  
+  .main img {
+    margin-right: 2rem;
+  }
+  h1 {
+    text-align: center;
+  }
+  i,
+  a {
+    color: #89fffd;
+    font-size: 20px;
+  }
+  .club {
+    color: #000;
+  }
+  i:hover,
+  a:hover {
+    outline: none;
+    color: #000;
+  }
+  p {
+    font-size: 20px;
+  }
+  
+  .main {
+    font-size: 20px;
+  }
+  
